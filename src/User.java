@@ -1,4 +1,5 @@
 
+//User object, with attributes, empty constructor, parameter constructor and getter & setters
 public class User {
 
     private String name;
